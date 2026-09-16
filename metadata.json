@@ -1,0 +1,6 @@
+{
+  "name": "CampusHostel AI - Management & Food Wastage Prediction",
+  "description": "Full-stack College Hostel Management System with intelligent room allocations, check-in/out, complaints, leave, visitor tracking, fees, and AI-powered food wastage prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
